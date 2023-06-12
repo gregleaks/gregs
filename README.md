@@ -15,5 +15,5 @@ turma 2
 
 
 <hr>
-**GitHub**
+*GitHub*
 _GitHub_
